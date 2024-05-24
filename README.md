@@ -4,4 +4,4 @@ Cell clustering in single-cell RNA (scRNA-seq) data is essential for downstream 
 
 **Keywords**: Cell clustering, Deep statisical copula netork, scRNA-seq data
 
-![main_diagram](main_diagram.tif)
+![main_diagram](main_diagram.png)
